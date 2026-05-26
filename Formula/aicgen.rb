@@ -1,9 +1,9 @@
 class Aicgen < Formula
   desc "Configuration generator for AI coding assistants"
   homepage "https://github.com/aicgen/aicgen"
-  url "https://github.com/aicgen/aicgen/releases/download/v1.1.1/aicgen-macos.tar.gz"
-  sha256 "301ca6edfd0a09e08ea4c2060f579cf2c556cccea38752a728692aae260d09b9"
-  version "1.1.1"
+  url "https://github.com/aicgen/aicgen/releases/download/v1.2.0/aicgen-macos.tar.gz"
+  sha256 "601b560705c10bed6d78c234253383e0e63d5d9d3ae5d04e7ce151e5e52b8d8a"
+  version "1.2.0"
 
   def install
     bin.install "aicgen"
